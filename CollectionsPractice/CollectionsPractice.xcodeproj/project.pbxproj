@@ -1,0 +1,74 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 55;
+	objects = {
+
+/* Begin PBXFileReference section */
+		268D8BA329956B990022E3B2 /* arrays.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = arrays.playground; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		268D8B9C29956B380022E3B2 = {
+			isa = PBXGroup;
+			children = (
+				268D8BA329956B990022E3B2 /* arrays.playground */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		268D8B9D29956B380022E3B2 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1340;
+			};
+			buildConfigurationList = 268D8BA029956B380022E3B2 /* Build configuration list for PBXProject "CollectionsPractice" */;
+			compatibilityVersion = "Xcode 13.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 268D8B9C29956B380022E3B2;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		268D8BA129956B380022E3B2 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		268D8BA229956B380022E3B2 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		268D8BA029956B380022E3B2 /* Build configuration list for PBXProject "CollectionsPractice" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				268D8BA129956B380022E3B2 /* Debug */,
+				268D8BA229956B380022E3B2 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 268D8B9D29956B380022E3B2 /* Project object */;
+}
